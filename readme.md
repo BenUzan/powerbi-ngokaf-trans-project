@@ -12,9 +12,13 @@ This project is based on several data, the most important of which are :
 
 ## Dashboard
 
-![First page: service review scores by time and geolocation](/preview/dashboard-page-01.jpg)
+| ![dashboard-page-1.jpg](/preview/dashboard-page-01.jpg) | 
+|:--:| 
+| *First page: service review scores by time and geolocation* |
 
-![Second page: customer frequencies by geolocation](/preview/dashboard-page-02.jpg)
+| ![dashboard-page-2.jpg](/preview/dashboard-page-02.jpg) | 
+|:--:| 
+| *Second page: customer frequencies by geolocation* |
 
 ## Prerequisites
 
@@ -25,6 +29,8 @@ This project is based on several data, the most important of which are :
 * SQL Server Management Studio 2019 or later
 
 ### Mandatory
+
+* [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
 
 ## Getting Started
 
