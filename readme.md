@@ -20,7 +20,7 @@ This project is based on several data, the most important of which are :
 
 ### Optional
 
-* Power BI Subscription: with organisational email](https://powerbi.microsoft.com/en-us/get-started/)
+* [Power BI Subscription: with organisational email](https://powerbi.microsoft.com/en-us/get-started/)
 * SQL Server 2022 or later
 * SQL Server Management Studio 2019 or later
 
