@@ -1,37 +1,34 @@
 # PowerBI - Ngokaf Trans Project : Customer Loyalty
 
-## Résumer
+## Summary
 
-Ce projet décisionnel a été initialisé dans le cadre de notre projet de fin d'étude(TFC) en Licence de Management des Systèmes d'Informations [^1], le but était de munir la sphère décisionnelle d'un tableau de bord (conçue grâce à la **méthode GIMSI®** [^2]) dans la perspective d'une fidélisation du segment clients, dans le secteur du transport de biens et de personnes.
+This decision-making project was initiated as part of our end-of-study project (TFC) in the Information Systems Management degree [^1]. The aim was to provide the decision-making sphere with a dashboard (designed using the **GIMSI®** method [^2]) with a view to building customer loyalty in the goods and passenger transport sector.
 
-Ce projet se base sur plusieurs données, les plus importantes sont :
+This project is based on several data, the most important of which are :
 
-- Les avis des clients sur les services proposés
-- La localisation des clients
-- Les trajets de bus des clients
+- Customer opinions on the services offered
+- Customer geolocation
+- Customers' bus routes
 
-## Tableau de bord
+## Dashboard
 
-![Première page : notes des avis des prestations selon le temps et la géolocalisation](/preview/dashboard-page-01.jpg)
+![First page: service review scores by time and geolocation](/preview/dashboard-page-01.jpg)
 
-![Deuxième page : fréquences des clients selon leurs géolocalisations](/preview/dashboard-page-02.jpg)
+![Second page: customer frequencies by geolocation](/preview/dashboard-page-02.jpg)
 
-## Prérequis
+## Prerequisites
 
-### Optionnels
+### Optional
 
-* [Power BI Subscription: with organisational email](https://powerbi.microsoft.com/en-us/get-started/)
-* SQL Server 2022 ou une version ultérieur
-* SQL Server Management Studio 2019 ou une version ultérieur
+* Power BI Subscription: with organisational email](https://powerbi.microsoft.com/en-us/get-started/)
+* SQL Server 2022 or later
+* SQL Server Management Studio 2019 or later
 
-### Obligatoires
-
-* [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/)
+### Mandatory
 
 ## Getting Started
 
 Lets get started by cloning this repository to your virtual machine or local machine and then open the Power BI file in the dashboard folder : **ngokaf-trans-dashboard.pbix** and visualize.
 
-
-[^1]: Filière organisée à l'École Supérieure d'Informatique Salama (Esis)
-[^2]: GIMSI est une méthode de conception d'un système de pilotage (ou décisionnel) créer d'Alain Fernandez [Piloter.org](http://www.piloter.org)
+[^1]: Course organised at École Supérieure d'Informatique Salama (Esis)
+[^2]: GIMSI is a method for designing a management (or decision-making) system created by Alain Fernandez [Piloter.org](http://www.piloter.org)
