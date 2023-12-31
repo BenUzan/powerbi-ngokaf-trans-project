@@ -2,11 +2,11 @@
 
 ## Summary
 
-This decision-making project was initiated as part of our end-of-study project (TFC) in the Information Systems Management degree [^1]. The aim was to provide the decision-making sphere with a dashboard (designed using the **GIMSI®** method [^2]) with a view to building customer loyalty in the goods and passenger transport sector.
+This decision-making project was initiated as part of our end-of-study project (TFC) in the Information Systems Management degree [^1]. The aim was to provide the decision-making sphere with a dashboard (designed using the **GIMSI® Method** [^2]) with a view to building customer loyalty in the goods and passenger transport sector.
 
 This project is based on several data, the most important of which are :
 
-- Customer opinions on the services offered
+- Customer reviews on the services offered
 - Customer geolocation
 - Customers' bus routes
 
