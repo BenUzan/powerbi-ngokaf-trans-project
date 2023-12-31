@@ -14,11 +14,11 @@ This project is based on several data, the most important of which are :
 
 | ![dashboard-page-1.jpg](/preview/dashboard-page-01.jpg) | 
 |:--:| 
-| *First page: service review scores by time and geolocation* |
+| *First page: service review scores over time and space (geolocation)* |
 
 | ![dashboard-page-2.jpg](/preview/dashboard-page-02.jpg) | 
 |:--:| 
-| *Second page: customer frequencies by geolocation* |
+| *Second page: customer frequency over time and space (geolocation)* |
 
 ## Prerequisites
 
