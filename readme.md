@@ -34,7 +34,7 @@ This project is based on several data, the most important of which are :
 
 ## Getting Started
 
-Lets get started by cloning this repository to your virtual machine or local machine and then open the Power BI file in the dashboard folder : **ngokaf-trans-dashboard.pbix** and visualize.
+Lets get started by cloning this repository to your virtual machine or local machine and then open the Power BI file in the dashboard folder : **_ngokaf-trans-dashboard.pbix_** and visualize.
 
 [^1]: Course organised at École Supérieure d'Informatique Salama (Esis)
-[^2]: GIMSI is a method for designing a management (or decision-making) system created by Alain Fernandez [Piloter.org](http://www.piloter.org)
+[^2]: GIMSI is a method for designing a decision-making system created by Alain Fernandez [Piloter.org](http://www.piloter.org)
